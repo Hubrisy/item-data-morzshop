@@ -53,6 +53,15 @@
             "itemDataTitle": "Черешня «Плакуча»",
             "itemLink": "https://chereshnyaplakucha.morzshop.site/",
             "itemImg": "https://github.com/Hubrisy/images/raw/main/garden/cherries.png"
+        },
+        {
+            "itemName":"Шовковиця «Плакуча»",
+            "itemSalePrice":"274",
+            "itemCurrentPrice": "137",
+            "itemId": "354",
+            "itemDataTitle": "Шовковиця «Плакуча»",
+            "itemLink": "https://shovkovicya.morzshop.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/garden/shov.png"
         }
     ]
 }
