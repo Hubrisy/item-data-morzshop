@@ -1,0 +1,174 @@
+{
+    "items":[
+        {
+            "itemName":"Ланцюгова пила",
+            "itemSalePrice":"1950",
+            "itemCurrentPrice": "1250",
+            "itemId": "308",
+            "itemDataTitle": "Ланцюгова пила",
+            "itemLink": "https://mini-pila.morzshop.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/pila.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Екобордюр",
+            "itemSalePrice":"989",
+            "itemCurrentPrice": "499",
+            "itemId": "476",
+            "itemDataTitle": "Екобордюр",
+            "itemLink": "https://ecobord.morzshop.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/ecobord.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Тактичний ліхтарик",
+            "itemSalePrice":"990",
+            "itemCurrentPrice": "399",
+            "itemId": "274",
+            "itemDataTitle": "Тактичний ліхтарик",
+            "itemLink": "https://lihtar.morzshop.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/flashlight.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Компрессор",
+            "itemSalePrice":"1058",
+            "itemCurrentPrice": "349",
+            "itemId": "274",
+            "itemDataTitle": "Компрессор",
+            "itemLink": "https://compressor.morzshop.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/compressor.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Насадка на культиватор",
+            "itemSalePrice":"599",
+            "itemCurrentPrice": "399",
+            "itemId": "393",
+            "itemDataTitle": "Насадка на культиватор",
+            "itemLink": "https://nasadkakultiivator.morzshop.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/culteequip.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Ручний культиватор",
+            "itemSalePrice":"699",
+            "itemCurrentPrice": "399",
+            "itemId": "489",
+            "itemDataTitle": "Ручний культиватор",
+            "itemLink": "https://handkultivator.morzshop.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/cultivator.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Універсальний набір випічки",
+            "itemSalePrice":"999",
+            "itemCurrentPrice": "499",
+            "itemId": "489",
+            "itemDataTitle": "Універсальний набір випічки",
+            "itemLink": "http://bakingform.morzshop.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/vipechka.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Розумна косметичка",
+            "itemSalePrice":"2200",
+            "itemCurrentPrice": "1199",
+            "itemId": "368",
+            "itemDataTitle": "Розумна косметичка",
+            "itemLink": "https://smartcosmetics.morzshop.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/cosmetik.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Сонячна електростанція",
+            "itemSalePrice":"1799",
+            "itemCurrentPrice": "849",
+            "itemId": "512",
+            "itemDataTitle": "Сонячна електростанція",
+            "itemLink": "https://station.morzshop.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/station.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Гребінець від вошей",
+            "itemSalePrice":"400",
+            "itemCurrentPrice": "199",
+            "itemId": "295",
+            "itemDataTitle": "Гребінець від вошей",
+            "itemLink": "https://comb.morzshop.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/comb.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Автомобільний пилосос",
+            "itemSalePrice":"800",
+            "itemCurrentPrice": "399",
+            "itemId": "260",
+            "itemDataTitle": "Автомобільний пилосос",
+            "itemLink": "http://autovacuum.morzshop.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/pilosos.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Автомобільна мийка",
+            "itemSalePrice":"2450",
+            "itemCurrentPrice": "1499",
+            "itemId": "350",
+            "itemDataTitle": "Автомобільна мийка",
+            "itemLink": "http://moyka.morzshop.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/moyka.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Електром'ясорубка",
+            "itemSalePrice":"2600",
+            "itemCurrentPrice": "1399",
+            "itemId": "194",
+            "itemDataTitle": "Електром'ясорубка",
+            "itemLink": "https://grinder.morzshop.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/grinder.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Висоторіз-секатор",
+            "itemSalePrice":"1599",
+            "itemCurrentPrice": "999",
+            "itemId": "337",
+            "itemDataTitle": "Висоторіз-секатор",
+            "itemLink": "https://sekator.morzshop.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/sekator.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Шланг Туман",
+            "itemSalePrice":"1240",
+            "itemCurrentPrice": "620",
+            "itemId": "371",
+            "itemDataTitle": "Шланг Туман",
+            "itemLink": "https://shlangtuman.morzshop.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/shlang.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Сівалка ручна",
+            "itemSalePrice":"1399",
+            "itemCurrentPrice": "899",
+            "itemId": "454",
+            "itemDataTitle": "Сівалка ручна",
+            "itemLink": "http://sivalka2.morzshop.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/sivalka.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Розсувний турнік",
+            "itemSalePrice":"899",
+            "itemCurrentPrice": "399",
+            "itemId": "455",
+            "itemDataTitle": "Розсувний турнік",
+            "itemLink": "https://smartturnik.morzshop.site/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/turnik.jpg",
+            "itemStyle": "block"
+        }
+    ]
+}
