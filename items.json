@@ -1,5 +1,45 @@
 {
     "items":[
+        {            
+            "itemName":"Огорожа",
+            "itemSalePrice":"99",            
+            "itemCurrentPrice": "63",
+            "itemId": "570",            
+            "itemDataTitle": "Огорожа",
+            "itemLink": "https://ogorozhka.morzshop.site/",            
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/ogorozha.jpg",
+            "itemStyle": "block"        
+        },
+        {            
+            "itemName":"Бордюр садовий",
+            "itemSalePrice":"799",            
+            "itemCurrentPrice": "199",
+            "itemId": "469",            
+            "itemDataTitle": "Бордюр садовий",
+            "itemLink": "https://zabor.morzshop.site/",            
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/bordur.jpg",
+            "itemStyle": "block"        
+        },
+        {            
+            "itemName":"Душ-палатка",
+            "itemSalePrice":"3000",            
+            "itemCurrentPrice": "899",
+            "itemId": "493",            
+            "itemDataTitle": "Душ-палатка",
+            "itemLink": "https://palatka.morzshop.site/",            
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/dyw.jpg",
+            "itemStyle": "block"        
+        },
+        {            
+            "itemName":"Wifi-camera",
+            "itemSalePrice":"1460",            
+            "itemCurrentPrice": "899",
+            "itemId": "545",            
+            "itemDataTitle": "Душ-палатка",
+            "itemLink": "https://wificamera.morzshop.site/",            
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/wifi.jpg",
+            "itemStyle": "block"        
+        },
         {
             "itemName":"Ланцюгова пила",
             "itemSalePrice":"1950",
